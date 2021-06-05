@@ -6,7 +6,7 @@ url: /
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/family-upper-banner h1="Optical Mark Recognition & Reader (OMR) Solution" h2="Build OMR apps for desktop, web & cloud platforms via native libraries, cloud SDKs or REST APIs to read & extract data from OMR exam sheets, etc." logoImageSrc="https://www.aspose.com/templates/brand/images/omr/aspose_omr-brand.png" imageAlt="Aspose.OMR Product Solution" >}}
+{{< blocks/products/pf/family-upper-banner h1="Optical Mark Recognition & Reader (OMR) Solution" h2="Build OMR apps for desktop, web & cloud platforms via native libraries, cloud SDKs or REST APIs to read & extract data from OMR exam sheets, etc." logoImageSrc="/headers/aspose_omr-brand.png" imageAlt="Aspose.OMR Product Solution" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.OMR Cloud APIs Include" >}}
@@ -15,15 +15,15 @@ url: /
 Recognize optical mark data from various formats (JPEG, PNG, BMP, TIFF & PDF) & export to CSV using cURL via REST API. Barcode recognition supported.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OMR" title="Cloud SDK for .NET" imgSrc="https://products.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_omr-for-net.png" >}}
+{{< blocks/products/pf/product pfName="Aspose.OMR" title="Cloud SDK for .NET" imgSrc="/sdk/aspose_omr-for-net.png" >}}
 Capture human-marked data from OMR exam sheets, surveys, etc. & export it to CSV using C# or other .NET languages. Recognize QR-codes as well.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OMR" title="Cloud SDK for Java" imgSrc="https://products.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_omr-for-java.png" >}}
+{{< blocks/products/pf/product pfName="Aspose.OMR" title="Cloud SDK for Java" imgSrc="/sdk/aspose_omr-for-java.png" >}}
 Build highly-accurate OMR software for cloud platforms in Java using REST API via Cloud SDK. Recognize human-marked data & export to CSV.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.cloud/omr/family" innerText="View All Cloud APIs" >}}
+{{< blocks/products/pf/center-button href="/omr/family" innerText="View All Cloud APIs" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 
