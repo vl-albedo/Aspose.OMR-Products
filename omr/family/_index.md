@@ -15,31 +15,31 @@ url: /family
 Build cURL applications via REST API to access OMR data present on the cloud storage, recognize & extract it to supported formats.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OMR" title="Cloud SDK for .NET" imgSrc="https://products.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_omr-for-net.png" productLink="/omr/net" >}}
+{{< blocks/products/pf/product pfName="Aspose.OMR" title="Cloud SDK for .NET" imgSrc="/sdk/aspose_omr-for-net.png" productLink="/omr/net" >}}
 Build OMR based answer sheet checker apps in C# or other .NET supported languages for cloud platforms using REST API.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OMR" title="Cloud SDK for Java" imgSrc="https://products.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_omr-for-java.png" productLink="/omr/java" >}}
+{{< blocks/products/pf/product pfName="Aspose.OMR" title="Cloud SDK for Java" imgSrc="/sdk/aspose_omr-for-java.png" productLink="/omr/java" >}}
 Develop cloud-based OMR mark reader & exporter Java apps for OMR images & barcodes using REST API.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OMR" title="Cloud SDK for PHP" imgSrc="https://products.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_omr-for-php.png" productLink="/omr/php" >}}
+{{< blocks/products/pf/product pfName="Aspose.OMR" title="Cloud SDK for PHP" imgSrc="/sdk/aspose_omr-for-php.png" productLink="/omr/php" >}}
 Enhance your PHP applications to fetch OMR exam sheets from the cloud, extract its marked data & export to CSV format.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OMR" title="Cloud SDK for Python" imgSrc="https://products.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_omr-for-python.png" productLink="/omr/python" >}}
+{{< blocks/products/pf/product pfName="Aspose.OMR" title="Cloud SDK for Python" imgSrc="/sdk/aspose_omr-for-python.png" productLink="/omr/python" >}}
 Python REST SDK to assist you in reading cloud-hosted OMR bubble sheets or QR-codes with accuracy & export marked data to CSV.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OMR" title="Cloud SDK for Ruby" imgSrc="https://products.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_omr-for-ruby.png" productLink="/omr/ruby" >}}
+{{< blocks/products/pf/product pfName="Aspose.OMR" title="Cloud SDK for Ruby" imgSrc="/sdk/aspose_omr-for-ruby.png" productLink="/omr/ruby" >}}
 Enhances your Ruby cloud apps to recognize OMR sheets, images, photos, barcodes, QR-codes for human-marked data with high accuracy.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OMR" title="Cloud SDK for Node.js" imgSrc="https://products.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_omr-for-node.png" productLink="/omr/nodejs" >}}
+{{< blocks/products/pf/product pfName="Aspose.OMR" title="Cloud SDK for Node.js" imgSrc="/sdk/aspose_omr-for-node.png" productLink="/omr/nodejs" >}}
 Brings new features to your Node.js cloud-based apps to fetch, read & detect human-marked data from OMR images stored on the cloud.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OMR" title="Cloud SDK for Perl" imgSrc="https://products.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_omr-for-perl.png" productLink="/omr/perl" >}}
+{{< blocks/products/pf/product pfName="Aspose.OMR" title="Cloud SDK for Perl" imgSrc="/sdk/aspose_omr-for-perl.png" productLink="/omr/perl" >}}
 Seamlessly integrate the optical mark recognition features into your Perl cloud apps to read & extract marked data from OMR images.
 {{< /blocks/products/pf/product >}}
 
