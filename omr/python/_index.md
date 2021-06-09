@@ -10,7 +10,7 @@ url: /python
 
 {{< blocks/products/pf/main-container pfName="Aspose.OMR" subTitlepfName="Cloud SDK for Python" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://products.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_omr-for-python.png" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/display/omrcloud/Release+Notes" instalationsDocsLink="" nugetLink="" nugetPackageName="" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_omr-for-python.png" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/display/omrcloud/Release+Notes" instalationsDocsLink="" nugetLink="" nugetPackageName="" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>Aspose.OMR Cloud SDK for Python assists cloud platform developers to build optical mark recognition (OMR) applications to generate, access and process OMR sheets in the cloud. Aspose.OMR Cloud SDK for Python lets you create rules for answer grading of cloud OMR sheets based on which the results can be produced. You can then export the OMR generated result to CSV format.</p>
@@ -232,21 +232,21 @@ url: /python
 
 {{< blocks/products/pf/offers-section pfName="Aspose.OMR" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/omr/curl" imgSrc="/sdk/aspose_omr-for-curl.png" platform="cURL" >}}
+    {{< blocks/products/pf/offers-section-item link="/omr/curl/" imgSrc="/sdk/aspose_omr-for-curl.png" platform="cURL" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/omr/net" imgSrc="/sdk/aspose_omr-for-net.png" platform=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/omr/net/" imgSrc="/sdk/aspose_omr-for-net.png" platform=".NET" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/omr/java" imgSrc="/sdk/aspose_omr-for-java.png" platform="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/omr/java/" imgSrc="/sdk/aspose_omr-for-java.png" platform="Java" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/omr/php" imgSrc="/sdk/aspose_omr-for-php.png" platform="PHP" >}}
+    {{< blocks/products/pf/offers-section-item link="/omr/php/" imgSrc="/sdk/aspose_omr-for-php.png" platform="PHP" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/omr/python" imgSrc="/sdk/aspose_omr-for-python.png" platform="Python" >}}
+    {{< blocks/products/pf/offers-section-item link="/omr/python/" imgSrc="/sdk/aspose_omr-for-python.png" platform="Python" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/omr/ruby" imgSrc="/sdk/aspose_omr-for-ruby.png" platform="Ruby" >}}
+    {{< blocks/products/pf/offers-section-item link="/omr/ruby/" imgSrc="/sdk/aspose_omr-for-ruby.png" platform="Ruby" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/omr/nodejs" imgSrc="/sdk/aspose_omr-for-node.png" platform="Node.js" >}}
+    {{< blocks/products/pf/offers-section-item link="/omr/nodejs/" imgSrc="/sdk/aspose_omr-for-node.png" platform="Node.js" >}}
 	
-	{{< blocks/products/pf/offers-section-item link="/omr/perl" imgSrc="/sdk/aspose_omr-for-perl.png" platform="Perl" >}}
+	{{< blocks/products/pf/offers-section-item link="/omr/perl/" imgSrc="/sdk/aspose_omr-for-perl.png" platform="Perl" >}}
 	
 {{< /blocks/products/pf/offers-section >}}
 

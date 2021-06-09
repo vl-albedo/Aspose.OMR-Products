@@ -23,7 +23,7 @@ Capture human-marked data from OMR exam sheets, surveys, etc. & export it to CSV
 Build highly-accurate OMR software for cloud platforms in Java using REST API via Cloud SDK. Recognize human-marked data & export to CSV.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="/omr/family" innerText="View All Cloud APIs" >}}
+{{< blocks/products/pf/center-button href="/omr/family/" innerText="View All Cloud APIs" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 

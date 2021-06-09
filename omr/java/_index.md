@@ -10,7 +10,7 @@ url: /java
 
 {{< blocks/products/pf/main-container pfName="Aspose.OMR" subTitlepfName="Cloud SDK for Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://products.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_omr-for-java.png" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/omr" directDownloadLink="https://github.com/aspose-omr-cloud/aspose-omr-cloud-java" liveDemosLink="https://products.aspose.app/omr/family" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_omr-for-java.png" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/omr" directDownloadLink="https://github.com/aspose-omr-cloud/aspose-omr-cloud-java" liveDemosLink="https://products.aspose.app/omr/family" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>Aspose.OMR Cloud SDK for Java provides your cloud-based Java applications the capability to capture human-marked data from OMR sheets, surveys, MCQs, questionnaires stored on the cloud, perform grading of the gathered OMR data from the cloud, based on your defined rules, extract that data and export it to CSV format, without requiring the installation of any 3rd party software.</p>
@@ -158,21 +158,21 @@ url: /java
 
 {{< blocks/products/pf/offers-section pfName="Aspose.OMR" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/omr/curl" imgSrc="/sdk/aspose_omr-for-curl.png" platform="cURL" >}}
+    {{< blocks/products/pf/offers-section-item link="/omr/curl/" imgSrc="/sdk/aspose_omr-for-curl.png" platform="cURL" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/omr/net" imgSrc="/sdk/aspose_omr-for-net.png" platform=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/omr/net/" imgSrc="/sdk/aspose_omr-for-net.png" platform=".NET" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/omr/java" imgSrc="/sdk/aspose_omr-for-java.png" platform="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/omr/java/" imgSrc="/sdk/aspose_omr-for-java.png" platform="Java" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/omr/php" imgSrc="/sdk/aspose_omr-for-php.png" platform="PHP" >}}
+    {{< blocks/products/pf/offers-section-item link="/omr/php/" imgSrc="/sdk/aspose_omr-for-php.png" platform="PHP" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/omr/python" imgSrc="/sdk/aspose_omr-for-python.png" platform="Python" >}}
+    {{< blocks/products/pf/offers-section-item link="/omr/python/" imgSrc="/sdk/aspose_omr-for-python.png" platform="Python" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/omr/ruby" imgSrc="/sdk/aspose_omr-for-ruby.png" platform="Ruby" >}}
+    {{< blocks/products/pf/offers-section-item link="/omr/ruby/" imgSrc="/sdk/aspose_omr-for-ruby.png" platform="Ruby" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/omr/nodejs" imgSrc="/sdk/aspose_omr-for-node.png" platform="Node.js" >}}
+    {{< blocks/products/pf/offers-section-item link="/omr/nodejs/" imgSrc="/sdk/aspose_omr-for-node.png" platform="Node.js" >}}
 	
-	{{< blocks/products/pf/offers-section-item link="/omr/perl" imgSrc="/sdk/aspose_omr-for-perl.png" platform="Perl" >}}
+	{{< blocks/products/pf/offers-section-item link="/omr/perl/" imgSrc="/sdk/aspose_omr-for-perl.png" platform="Perl" >}}
 	
 {{< /blocks/products/pf/offers-section >}}
 

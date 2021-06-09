@@ -10,7 +10,7 @@ url: /ruby
 
 {{< blocks/products/pf/main-container pfName="Aspose.OMR" subTitlepfName="Cloud SDK for Ruby" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://products.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_omr-for-ruby.png" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/omr" directDownloadLink="https://github.com/aspose-omr-cloud/aspose-omr-cloud-ruby" liveDemosLink="https://products.aspose.app/omr/family" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_omr-for-ruby.png" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/omr" directDownloadLink="https://github.com/aspose-omr-cloud/aspose-omr-cloud-ruby" liveDemosLink="https://products.aspose.app/omr/family" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>Aspose.OMR Cloud SDK for Ruby enables cloud programmers to enhance their cloud-based Ruby applications to fetch OMR sheets (JPEG, BMP, PNG, TIFF & PDF) hosted on the cloud storage, perform Optical Mark Recognition (OMR) operations on them, apply pre-defined rules for answer grading, and extract OMR results to the CSV file. Aspose.OMR Cloud SDK for Ruby can be used under an MIT license and doesn't require any other software to be installed to execute OMR related functions within your cloud-based Ruby apps.</p>
@@ -162,21 +162,21 @@ url: /ruby
 
 {{< blocks/products/pf/offers-section pfName="Aspose.OMR" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/omr/curl" imgSrc="/sdk/aspose_omr-for-curl.png" platform="cURL" >}}
+    {{< blocks/products/pf/offers-section-item link="/omr/curl/" imgSrc="/sdk/aspose_omr-for-curl.png" platform="cURL" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/omr/net" imgSrc="/sdk/aspose_omr-for-net.png" platform=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/omr/net/" imgSrc="/sdk/aspose_omr-for-net.png" platform=".NET" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/omr/java" imgSrc="/sdk/aspose_omr-for-java.png" platform="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/omr/java/" imgSrc="/sdk/aspose_omr-for-java.png" platform="Java" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/omr/php" imgSrc="/sdk/aspose_omr-for-php.png" platform="PHP" >}}
+    {{< blocks/products/pf/offers-section-item link="/omr/php/" imgSrc="/sdk/aspose_omr-for-php.png" platform="PHP" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/omr/python" imgSrc="/sdk/aspose_omr-for-python.png" platform="Python" >}}
+    {{< blocks/products/pf/offers-section-item link="/omr/python/" imgSrc="/sdk/aspose_omr-for-python.png" platform="Python" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/omr/ruby" imgSrc="/sdk/aspose_omr-for-ruby.png" platform="Ruby" >}}
+    {{< blocks/products/pf/offers-section-item link="/omr/ruby/" imgSrc="/sdk/aspose_omr-for-ruby.png" platform="Ruby" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/omr/nodejs" imgSrc="/sdk/aspose_omr-for-node.png" platform="Node.js" >}}
+    {{< blocks/products/pf/offers-section-item link="/omr/nodejs/" imgSrc="/sdk/aspose_omr-for-node.png" platform="Node.js" >}}
 	
-	{{< blocks/products/pf/offers-section-item link="/omr/perl" imgSrc="/sdk/aspose_omr-for-perl.png" platform="Perl" >}}
+	{{< blocks/products/pf/offers-section-item link="/omr/perl/" imgSrc="/sdk/aspose_omr-for-perl.png" platform="Perl" >}}
 	
 {{< /blocks/products/pf/offers-section >}}
 
