@@ -205,7 +205,7 @@ url: /curl
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.cloud/display/omrcloud/Home" >}}
+{{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.cloud/omr" >}}
 {{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-omr-cloud" >}}
 {{< blocks/products/pf/slr-element name="API References" href="https://apireference.aspose.cloud/omr/" >}}
 {{< blocks/products/pf/slr-element name="Tutorial Videos" href="https://www.youtube.com/user/asposevideo" >}}

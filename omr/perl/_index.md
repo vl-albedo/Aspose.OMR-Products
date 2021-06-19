@@ -5,7 +5,7 @@ url: /perl
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Read & Process Cloud OMR Sheets via Perl Cloud SDK" h2="REST API to generate & process OMR sheets (JPEG, TIFF, PNG, BMP & PDF) in the cloud for detection, grading & extraction of OMR results via Perl." logoImageSrc="https://products.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/headers/aspose_omr-for-perl.png" pfName="Aspose.OMR" subTitlepfName="Cloud SDK for Perl" downloadUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Read & Process Cloud OMR Sheets via Perl Cloud SDK" h2="REST API to generate & process OMR sheets (JPEG, TIFF, PNG, BMP & PDF) in the cloud for detection, grading & extraction of OMR results via Perl." logoImageSrc="/sdk/aspose_omr-for-perl.png" pfName="Aspose.OMR" subTitlepfName="Cloud SDK for Perl" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.OMR" subTitlepfName="Cloud SDK for Perl" >}}
 
@@ -208,7 +208,7 @@ url: /perl
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.cloud/display/omrcloud/Home" >}}
+{{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.cloud/omr" >}}
 {{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-omr-cloud/aspose-omr-cloud-perl" >}}
 {{< blocks/products/pf/slr-element name="API References" href="https://apireference.aspose.cloud/omr/" >}}
 {{< blocks/products/pf/slr-element name="Tutorial Videos" href="https://www.youtube.com/user/asposevideo" >}}

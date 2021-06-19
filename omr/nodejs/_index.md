@@ -6,11 +6,11 @@ url: /nodejs
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Extract OMR Marked Data via Node.js Cloud SDK" h2="Enhance your Node.js cloud apps to generate OMR sheets, detect human-marked data, perform answer grading & export OMR results via REST API." logoImageSrc="https://products.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/headers/aspose_omr-for-node.png" pfName="Aspose.OMR" subTitlepfName="Cloud SDK for Node.js" downloadUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Extract OMR Marked Data via Node.js Cloud SDK" h2="Enhance your Node.js cloud apps to generate OMR sheets, detect human-marked data, perform answer grading & export OMR results via REST API." logoImageSrc="/sdk/aspose_omr-for-node.png" pfName="Aspose.OMR" subTitlepfName="Cloud SDK for Node.js" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.OMR" subTitlepfName="Cloud SDK for Node.js" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://products.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/headers/aspose_omr-for-node.png" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/omr" directDownloadLink="https://github.com/aspose-omr-cloud/aspose-omr-cloud-nodejs" liveDemosLink="https://products.aspose.app/omr/family"  >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_omr-for-node.png" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/omr" directDownloadLink="https://github.com/aspose-omr-cloud/aspose-omr-cloud-nodejs" liveDemosLink="https://products.aspose.app/omr/family"  >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>Aspose.OMR Cloud SDK for Node.js is an easy to use cloud SDK that is built on top of Aspose.OMR REST API to help cloud programmers to rapidly develop Optical Mark Recognition (OMR) processor applications in Node.js for the cloud platforms. Using Aspose.OMR Cloud SDK for Node.js enables your cloud-based Node.js applications to create OMR sheets from scratch based on OMR templates, create rules for answer grading and perform OMR results evaluation of OMR sheets hosted on the cloud.</p>
@@ -210,7 +210,7 @@ url: /nodejs
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.cloud/display/omrcloud/Home" >}}
+{{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.cloud/omr" >}}
 {{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-omr-cloud/aspose-omr-cloud-nodejs" >}}
 {{< blocks/products/pf/slr-element name="API References" href="https://apireference.aspose.cloud/omr/" >}}
 {{< blocks/products/pf/slr-element name="Tutorial Videos" href="https://www.youtube.com/user/asposevideo" >}}

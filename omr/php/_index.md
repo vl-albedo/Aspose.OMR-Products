@@ -6,7 +6,7 @@ url: /php
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Perform OMR on cloud PDF & Image Files via PHP" h2="Generate OMR templates, OMR sheets, detect marked data, perform answer grading & OMR data extraction in your PHP cloud apps via REST API." logoImageSrc="https://products.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/headers/aspose_omr-for-php.png" pfName="Aspose.OMR" subTitlepfName="Cloud SDK for PHP" downloadUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Perform OMR on cloud PDF & Image Files via PHP" h2="Generate OMR templates, OMR sheets, detect marked data, perform answer grading & OMR data extraction in your PHP cloud apps via REST API." logoImageSrc="/sdk/aspose_omr-for-php.png" pfName="Aspose.OMR" subTitlepfName="Cloud SDK for PHP" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.OMR" subTitlepfName="Cloud SDK for PHP" >}}
 
@@ -211,7 +211,7 @@ url: /php
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.cloud/display/omrcloud/Home" >}}
+{{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.cloud/omr" >}}
 {{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-omr-cloud/aspose-omr-cloud-php" >}}
 {{< blocks/products/pf/slr-element name="API References" href="https://apireference.aspose.cloud/omr/" >}}
 {{< blocks/products/pf/slr-element name="Tutorial Videos" href="https://www.youtube.com/user/asposevideo" >}}

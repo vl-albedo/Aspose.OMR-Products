@@ -6,7 +6,7 @@ url: /ruby
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Create, Read & Extract Cloud OMR Data via Ruby" h2="REST API to develop Ruby cloud apps for performing Optical Mark Recognition (OMR) processing on OMR sheets hosted on the cloud." logoImageSrc="https://products.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/headers/aspose_omr-for-ruby.png" pfName="Aspose.OMR" subTitlepfName="Cloud SDK for Ruby" downloadUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Create, Read & Extract Cloud OMR Data via Ruby" h2="REST API to develop Ruby cloud apps for performing Optical Mark Recognition (OMR) processing on OMR sheets hosted on the cloud." logoImageSrc="/sdk/aspose_omr-for-ruby.png" pfName="Aspose.OMR" subTitlepfName="Cloud SDK for Ruby" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.OMR" subTitlepfName="Cloud SDK for Ruby" >}}
 
@@ -139,7 +139,7 @@ url: /ruby
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.cloud/display/omrcloud/Home" >}}
+{{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.cloud/omr" >}}
 {{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-omr-cloud/aspose-omr-cloud-ruby" >}}
 {{< blocks/products/pf/slr-element name="API References" href="https://apireference.aspose.cloud/omr/" >}}
 {{< blocks/products/pf/slr-element name="Tutorial Videos" href="https://www.youtube.com/user/asposevideo" >}}

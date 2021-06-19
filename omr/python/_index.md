@@ -6,11 +6,11 @@ url: /python
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Create, Detect, Grade OMR Sheets in Cloud via Python" h2="REST API to build OMR processing apps in Python to detect OMR sheet data, perform answer grading & extract OMR results in the cloud." logoImageSrc="https://products.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/headers/aspose_omr-for-python.png" pfName="Aspose.OMR" subTitlepfName="Cloud SDK for Python" downloadUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Create, Detect, Grade OMR Sheets in Cloud via Python" h2="REST API to build OMR processing apps in Python to detect OMR sheet data, perform answer grading & extract OMR results in the cloud." logoImageSrc="/sdk/aspose_omr-for-python.png" pfName="Aspose.OMR" subTitlepfName="Cloud SDK for Python" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.OMR" subTitlepfName="Cloud SDK for Python" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_omr-for-python.png" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/display/omrcloud/Release+Notes" instalationsDocsLink="" nugetLink="" nugetPackageName="" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_omr-for-python.png" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/omr" instalationsDocsLink="" nugetLink="" nugetPackageName="" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>Aspose.OMR Cloud SDK for Python assists cloud platform developers to build optical mark recognition (OMR) applications to generate, access and process OMR sheets in the cloud. Aspose.OMR Cloud SDK for Python lets you create rules for answer grading of cloud OMR sheets based on which the results can be produced. You can then export the OMR generated result to CSV format.</p>
@@ -209,7 +209,7 @@ url: /python
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.cloud/display/omrcloud/Home" >}}
+{{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.cloud/omr" >}}
 {{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-omr-cloud/aspose-omr-cloud-python" >}}
 {{< blocks/products/pf/slr-element name="API References" href="https://apireference.aspose.cloud/omr/" >}}
 {{< blocks/products/pf/slr-element name="Tutorial Videos" href="https://www.youtube.com/user/asposevideo" >}}

@@ -35,7 +35,7 @@ Python REST SDK to assist you in reading cloud-hosted OMR bubble sheets or QR-co
 Enhances your Ruby cloud apps to recognize OMR sheets, images, photos, barcodes, QR-codes for human-marked data with high accuracy.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OMR" title="Cloud SDK for Node.js" imgSrc="/sdk/aspose_omr-for-node.png" productLink="/omr/python/" >}}
+{{< blocks/products/pf/product pfName="Aspose.OMR" title="Cloud SDK for Node.js" imgSrc="/sdk/aspose_omr-for-node.png" productLink="/omr/nodejs/" >}}
 Brings new features to your Node.js cloud-based apps to fetch, read & detect human-marked data from OMR images stored on the cloud.
 {{< /blocks/products/pf/product >}}
 
