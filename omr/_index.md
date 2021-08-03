@@ -46,7 +46,7 @@ Instantly create customizable ready to print OMR answer sheet images using free 
 {{< blocks/products/pf/product productLink="https://products.aspose.app/omr/scan-answer-sheet" pfName="Aspose.OMR " title="Scan Answer Sheet" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_scan-answersheet-app.png" >}}
 Free app to scan OMR answer sheets online using your favourite browser.
 {{< /blocks/products/pf/product >}}
-{{< blocks/products/pf/product productLink="https://products.aspose.app/omr/grade-calculator" pfName="Aspose.OMR " title="Grade Calculator" imgSrc="https://products.aspose.app/omr/grade-calculator" >}}
+{{< blocks/products/pf/product productLink="https://products.aspose.app/omr/grade-calculator" pfName="Aspose.OMR " title="Grade Calculator" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_grade-calculator-app.png" >}}
 Easily calculate grade of the test, exam, quiz or assignment using free online grade calculator.
 {{< /blocks/products/pf/product >}}
 
