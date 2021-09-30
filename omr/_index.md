@@ -29,14 +29,14 @@ Build highly-accurate OMR software for cloud platforms in Java using REST API vi
 
 {{< blocks/products/pf/product-card-row title="Aspose.OMR On Premise APIs Include" >}}
 
-{{< blocks/products/pf/product productLink="https://products.aspose.com/omr/net/" pfName="Aspose.OMR for " title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/omr/272x272/aspose_omr-for-net.png" >}}
+{{< blocks/products/pf/product productLink="https://products.aspose.com/omr/net/" pfName="Aspose.OMR for " title=".NET" imgSrc="/product-logos/aspose_omr-for-net.svg" >}}
 Build desktop-based OMR software in C# or other .NET supported languages to detect human-marked data from OMR documents & export to CSV, XML or JSON.
 {{< /blocks/products/pf/product >}}
-{{< blocks/products/pf/product productLink="https://products.aspose.com/omr/java/" pfName="Aspose.OMR for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/omr/272x272/aspose_omr-for-java.png" >}}
+{{< blocks/products/pf/product productLink="https://products.aspose.com/omr/java/" pfName="Aspose.OMR for " title="Java" imgSrc="/product-logos/aspose_omr-for-java.svg" >}}
 On-premise APIs to add Optical Mark Recognition functionality within applications as well as recognize data from photos and scans in most commonly used image formats.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.com/omr/family" innerText="View All On Premise APIs" >}}
+{{< blocks/products/pf/center-button href="https://products.aspose.com/omr/family/" innerText="View All On Premise APIs" >}}
 
 {{< blocks/products/pf/product-card-row title="Aspose.OMR Cross Platform Apps Include" >}}
 
