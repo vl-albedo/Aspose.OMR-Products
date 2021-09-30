@@ -6,11 +6,11 @@ url: /nodejs
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Extract OMR Marked Data via Node.js Cloud SDK" h2="Enhance your Node.js cloud apps to generate OMR sheets, detect human-marked data, perform answer grading & export OMR results via REST API." logoImageSrc="/sdk/aspose_omr-for-node.png" pfName="Aspose.OMR" subTitlepfName="Cloud SDK for Node.js" downloadUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Extract OMR Marked Data via Node.js Cloud SDK" h2="Enhance your Node.js cloud apps to generate OMR sheets, detect human-marked data, perform answer grading & export OMR results via REST API." logoImageSrc="/sdk/aspose_omr-for-node.svg" pfName="Aspose.OMR" subTitlepfName="Cloud SDK for Node.js" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.OMR" subTitlepfName="Cloud SDK for Node.js" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_omr-for-node.png" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/omr" directDownloadLink="https://github.com/aspose-omr-cloud/aspose-omr-cloud-nodejs" liveDemosLink="https://products.aspose.app/omr/family"  >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_omr-for-node.svg" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/omr" directDownloadLink="https://github.com/aspose-omr-cloud/aspose-omr-cloud-nodejs" liveDemosLink="https://products.aspose.app/omr/family"  >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>Aspose.OMR Cloud SDK for Node.js is an easy to use cloud SDK that is built on top of Aspose.OMR REST API to help cloud programmers to rapidly develop Optical Mark Recognition (OMR) processor applications in Node.js for the cloud platforms. Using Aspose.OMR Cloud SDK for Node.js enables your cloud-based Node.js applications to create OMR sheets from scratch based on OMR templates, create rules for answer grading and perform OMR results evaluation of OMR sheets hosted on the cloud.</p>
@@ -37,7 +37,7 @@ url: /nodejs
 </ul></div>
 <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_omr-for-node.png" alt="Node.js OMR Cloud"><header>Aspose.OMR</header><footer>Cloud <small> <em>for </em> </small>Node.js</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_omr-for-node.svg" alt="Node.js OMR Cloud"><header>Aspose.OMR</header><footer>Cloud <small> <em>for </em> </small>Node.js</footer></div>
 <!--/logo--></div>
 <!--/diagram1-->
 {{< /blocks/products/pf/carousel-item >}}
@@ -56,7 +56,7 @@ url: /nodejs
 </ul></div>
 <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_omr-for-node.png" alt="Node.js Cloud for OMR"><header>Aspose.OMR</header><footer>Cloud <small> <em>for </em> </small>Node.js</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_omr-for-node.svg" alt="Node.js Cloud for OMR"><header>Aspose.OMR</header><footer>Cloud <small> <em>for </em> </small>Node.js</footer></div>
 <!--/logo--></div>
 <!--/diagram2-->
 {{< /blocks/products/pf/carousel-item >}}
@@ -233,21 +233,21 @@ url: /nodejs
 
 {{< blocks/products/pf/offers-section pfName="Aspose.OMR" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/omr/curl/" imgSrc="/sdk/aspose_omr-for-curl.png" platform="cURL" >}}
+    {{< blocks/products/pf/offers-section-item link="/omr/curl/" imgSrc="/sdk/aspose_omr-for-curl.svg" platform="cURL" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/omr/net/" imgSrc="/sdk/aspose_omr-for-net.png" platform=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/omr/net/" imgSrc="/sdk/aspose_omr-for-net.svg" platform=".NET" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/omr/java/" imgSrc="/sdk/aspose_omr-for-java.png" platform="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/omr/java/" imgSrc="/sdk/aspose_omr-for-java.svg" platform="Java" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/omr/php/" imgSrc="/sdk/aspose_omr-for-php.png" platform="PHP" >}}
+    {{< blocks/products/pf/offers-section-item link="/omr/php/" imgSrc="/sdk/aspose_omr-for-php.svg" platform="PHP" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/omr/python/" imgSrc="/sdk/aspose_omr-for-python.png" platform="Python" >}}
+    {{< blocks/products/pf/offers-section-item link="/omr/python/" imgSrc="/sdk/aspose_omr-for-python.svg" platform="Python" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/omr/ruby/" imgSrc="/sdk/aspose_omr-for-ruby.png" platform="Ruby" >}}
+    {{< blocks/products/pf/offers-section-item link="/omr/ruby/" imgSrc="/sdk/aspose_omr-for-ruby.svg" platform="Ruby" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/omr/nodejs/" imgSrc="/sdk/aspose_omr-for-node.png" platform="Node.js" >}}
+    {{< blocks/products/pf/offers-section-item link="/omr/nodejs/" imgSrc="/sdk/aspose_omr-for-node.svg" platform="Node.js" >}}
 	
-	{{< blocks/products/pf/offers-section-item link="/omr/perl/" imgSrc="/sdk/aspose_omr-for-perl.png" platform="Perl" >}}
+	{{< blocks/products/pf/offers-section-item link="/omr/perl/" imgSrc="/sdk/aspose_omr-for-perl.svg" platform="Perl" >}}
 	
 {{< /blocks/products/pf/offers-section >}}
 
