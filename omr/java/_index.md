@@ -6,7 +6,7 @@ url: /java
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Detect, Grade & Extract OMR Data via Java Cloud SDK" h2="REST API for seamless integration of OMR sheet detection, grading & processing capabilities into your Java cloud apps." logoImageSrc="/sdk/aspose_omr-for-java.svg" pfName="Aspose.OMR" subTitlepfName="Cloud SDK for Java" downloadUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Detect, Grade & Extract OMR Data via Java Cloud SDK" h2="REST API for seamless integration of OMR sheet detection, grading & processing capabilities into your Java cloud apps." logoImageSrc="/headers/aspose_omr-for-java.svg" pfName="Aspose.OMR" subTitlepfName="Cloud SDK for Java" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.OMR" subTitlepfName="Cloud SDK for Java" >}}
 
