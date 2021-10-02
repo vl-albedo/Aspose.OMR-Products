@@ -5,7 +5,7 @@ url: /perl
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Read & Process Cloud OMR Sheets via Perl Cloud SDK" h2="REST API to generate & process OMR sheets (JPEG, TIFF, PNG, BMP & PDF) in the cloud for detection, grading & extraction of OMR results via Perl." logoImageSrc="/sdk/aspose_omr-for-perl.svg" pfName="Aspose.OMR" subTitlepfName="Cloud SDK for Perl" downloadUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Read & Process Cloud OMR Sheets via Perl Cloud SDK" h2="REST API to generate & process OMR sheets (JPEG, TIFF, PNG, BMP & PDF) in the cloud for detection, grading & extraction of OMR results via Perl." logoImageSrc="/headers/aspose_omr-for-perl.svg" pfName="Aspose.OMR" subTitlepfName="Cloud SDK for Perl" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.OMR" subTitlepfName="Cloud SDK for Perl" >}}
 

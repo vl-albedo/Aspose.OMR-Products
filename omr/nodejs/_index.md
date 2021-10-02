@@ -6,7 +6,7 @@ url: /nodejs
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Extract OMR Marked Data via Node.js Cloud SDK" h2="Enhance your Node.js cloud apps to generate OMR sheets, detect human-marked data, perform answer grading & export OMR results via REST API." logoImageSrc="/sdk/aspose_omr-for-node.svg" pfName="Aspose.OMR" subTitlepfName="Cloud SDK for Node.js" downloadUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Extract OMR Marked Data via Node.js Cloud SDK" h2="Enhance your Node.js cloud apps to generate OMR sheets, detect human-marked data, perform answer grading & export OMR results via REST API." logoImageSrc="/headers/aspose_omr-for-nodejs.svg" pfName="Aspose.OMR" subTitlepfName="Cloud SDK for Node.js" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.OMR" subTitlepfName="Cloud SDK for Node.js" >}}
 
