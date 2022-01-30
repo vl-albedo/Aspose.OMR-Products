@@ -9,7 +9,7 @@ url: /
 {{< blocks/products/pf/family-upper-banner h1="Optical Mark Recognition & Reader (OMR) Solution" h2="Build OMR apps for desktop, web & cloud platforms via native libraries, cloud SDKs or REST APIs to read & extract data from OMR exam sheets, etc." logoImageSrc="/headers/aspose_omr-brand.svg" imageAlt="Aspose.OMR Product Solution" >}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/product-card-row title="Aspose.OMR Cloud APIs Include" >}}
+{{< blocks/products/pf/product-card-row title="Aspose.OMR Low Code APIs Include" >}}
 
 {{< blocks/products/pf/product productLink="/omr/curl/" pfName="Aspose.OMR" title="Cloud for cURL" imgSrc="/sdk/aspose_omr-for-curl.svg" >}}
 Recognize optical mark data from various formats (JPEG, PNG, BMP, TIFF & PDF) & export to CSV using cURL via REST API. Barcode recognition supported.
@@ -23,11 +23,11 @@ Capture human-marked data from OMR exam sheets, surveys, etc. & export it to CSV
 Build highly-accurate OMR software for cloud platforms in Java using REST API via Cloud SDK. Recognize human-marked data & export to CSV.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="/omr/family/" innerText="View All Cloud APIs" >}}
+{{< blocks/products/pf/center-button href="/omr/family/" innerText="View All Low Code APIs" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 
-{{< blocks/products/pf/product-card-row title="Aspose.OMR On Premise APIs Include" >}}
+{{< blocks/products/pf/product-card-row title="Aspose.OMR High Code APIs Include" >}}
 
 {{< blocks/products/pf/product productLink="https://products.aspose.com/omr/net/" pfName="Aspose.OMR for " title=".NET" imgSrc="/product-logos/aspose_omr-for-net.svg" >}}
 Build desktop-based OMR software in C# or other .NET supported languages to detect human-marked data from OMR documents & export to CSV, XML or JSON.
@@ -38,7 +38,7 @@ On-premise APIs to add Optical Mark Recognition functionality within application
 
 {{< blocks/products/pf/center-button href="https://products.aspose.com/omr/family/" innerText="View All On Premise APIs" >}}
 
-{{< blocks/products/pf/product-card-row title="Aspose.OMR Cross Platform Apps Include" >}}
+{{< blocks/products/pf/product-card-row title="Aspose.OMR No Code Apps Include" >}}
 
 {{< blocks/products/pf/product productLink="https://products.aspose.app/omr/create-answer-sheet" pfName="Aspose.OMR " title="Create Answer Sheet" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_create-answersheet-app.png" >}}
 Instantly create customizable ready to print OMR answer sheet images using free online app.
@@ -50,7 +50,7 @@ Free app to scan OMR answer sheets online using your favourite browser.
 Easily calculate grade of the test, exam, quiz or assignment using free online grade calculator.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.app/omr/family" innerText="View All Cross Platform Apps" >}}
+{{< blocks/products/pf/center-button href="https://products.aspose.app/omr/family" innerText="View All No Code Apps" >}}
 
 {{< /blocks/products/pf/main-container >}}
 
