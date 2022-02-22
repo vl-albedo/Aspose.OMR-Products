@@ -117,7 +117,7 @@ url: /java
 </div>
 <div class="col-lg-12">
 <h2 class="h2title">Markup for OMR Template Generation</h2>
-<p>Aspose.OMR Cloud SDK for Java allows developers to use markup to generate OMR templates. This markup support several types of elements. These elements include, text, choice box (question), answer sheet (several column of questions), grid (complex values that consist of similar sections), image (e.g. logo), barcode (barcodes, QR-codes, aruco codes).</p>
+<p>Aspose.OMR Cloud SDK for Java allows developers to use markup to generate OMR templates. This markup support several types of elements. These elements include, text, choice box (question), answer sheet (several column of questions), grid (complex values that consist of similar sections), image (e.g. logo), barcode (barcodes, QR-codes, ArUco codes).</p>
 </div>
 <div class="col-lg-12">
 <h2 class="h2title">GUI Application for OMR Template Management</h2>
